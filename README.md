@@ -23,15 +23,17 @@ jQuery Demo for DevMountain class
 //to add it to your project, add it in the html at the bottom just before "</body>" by doing the following:
 
 
-    <script src="js/jquery-1.11.2.js" type="text/javascript" charset="utf-8"></script>
+   /* <script src="js/jquery-1.11.2.js" type="text/javascript" charset="utf-8"></script>
 	<script src="js/app.js" type="text/javascript" charset="utf-8"></script>
-
+*/
 
 //that adds both jquery and javascript - add jquery first as browsers read top to bottom and you want jquery loaded before javascript.
 
 // to get started 3 pronged approach: plan, prepare, perform --- notes at the top of js file explaining...
 
 //now use the following to wrap all your javascript (meaning everyhting in your javascript file will goes inbetween the following:
-
+/*
 $(document).ready(function() {
     //everything you write goes in here...   
+});
+*/
