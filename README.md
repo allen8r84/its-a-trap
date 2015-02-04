@@ -20,7 +20,7 @@ jQuery Demo for DevMountain class
 
 //download jquery file from the api.jquery.com
 //add it ito the same folder as your javascript (usually named js)
-//to add it to your project, add it in the html at the bottom just before "</body>" by doing the following:
+//to add it to your project, add it in the html at the bottom just before "\<\/body>" by doing the following:
 //
 
    /* <script src="js/jquery-1.11.2.js" type="text/javascript" charset="utf-8"></script>
